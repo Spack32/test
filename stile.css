@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+}
+
+main {
+    margin-left: 320px; 
+} 
+
+.container {
+    width: 1280px;
+    height: 853px;
+    background-image: url('Frame 5.png');
+    background-size: cover;
+}
+
+.HB {
+    color: white;
+    font-size: 128px;
+    padding-left: 41px;
+    padding-top: 541px;    
+}
+
+.member{
+    color: #218E9F;
+    font-size: 120px;
+    padding-top: 937px;
+    padding-left: 650px;
+}
